@@ -11,4 +11,4 @@ const stringArray = userInputString.split(",");
 const froyo = {
     flavor: ["vanilla", "strawberry", "coffee"], 
 
-} 
+}  
